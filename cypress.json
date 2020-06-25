@@ -1,1 +1,9 @@
-{}
+{
+  "baseUrl": "https://ryusuke-homma-unifa.github.io/todo_app/",
+  "reporter": "mochawesome",
+  "reporterOptions": {
+    "overwrite": false,
+    "html": false,
+    "json": true
+  }
+}
